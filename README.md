@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineering Student!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learning Javascript frameworks.
 - ⚡ Fun fact: I love to draw ui and watching documentary.
