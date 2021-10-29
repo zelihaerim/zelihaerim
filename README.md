@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learning Javascript frameworks.
-- ⚡ Fun fact: I love to draw ui and watching documentary.
+- ⚡ Fun fact: I love to draw ui.
 
 ### Connect with me:
 
