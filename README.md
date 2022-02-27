@@ -1,6 +1,6 @@
 ### Hi there, I'm Zeliha 👋
 
-## I'm a Computer Engineering Student!
+## I'm a Computer Engineer!
 
 ### Connect with me:
 
