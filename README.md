@@ -2,9 +2,6 @@
 
 ## I'm a Computer Engineering Student!
 
-- 🌱 I’m currently learning Angular.
-- 🥅 2022 Goals: Learning Javascript frameworks.
-
 ### Connect with me:
 
 [<img align="left" alt="Zeliha Erim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
