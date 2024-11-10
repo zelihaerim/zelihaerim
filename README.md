@@ -51,7 +51,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 <br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaerim&layout=compact)
 
 [website]: https://github.com/zelihaerim
 [linkedin]: https://www.linkedin.com/in/zeliha-erim
