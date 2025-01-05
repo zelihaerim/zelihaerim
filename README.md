@@ -1,6 +1,8 @@
-### Hi there, I'm Zeliha 👋
+### Hi there, I'm Zeliha 🤗
 
-## I'm a Computer Engineer!
+## I'm a Computer Engineer! 💻
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zelihaerim&color=brightgreen)
 
 ### Connect with me:
 
