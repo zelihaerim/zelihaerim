@@ -1,7 +1,8 @@
 ### Hi there, I'm Zeliha 🤗
 
-## I'm a Computer Engineer! 💻
-
+## I'm a Computer Engineer and Data Scientist! 💻
+### - Currently learning Computer Vision.
+### - Expertise : Machine Learning, Deep Learning, NLP.
 ![Visitor Count](https://komarev.com/ghpvc/?username=zelihaerim&color=brightgreen)
 
 ### Connect with me:
