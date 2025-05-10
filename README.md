@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineer and Data Scientist! 💻
 ### - Currently learning Computer Vision.
-### - Expertise : Machine Learning, Deep Learning, NLP.
+### - Expertise : Machine Learning, Deep Learning, Data Mining, NLP.
 ![Visitor Count](https://komarev.com/ghpvc/?username=zelihaerim&color=brightgreen)
 
 ### Connect with me:
